@@ -1,7 +1,5 @@
-<h5 align="right">Hi 👋, I'm Mona Gupta</h1>
-<h6 align="right">I want to work as a Full Stack (MERN) Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monagupta2301&label=Profile%20views&color=0e75b6&style=flat" alt="monagupta2301" /> </p>
+<h3 align="left">Hi 👋, I'm Mona Gupta</h1>
+<h4 align="left">I want to work as a Full Stack (MERN) Developer</h3>
 
 📫 Email: **guptamona252@gmail.com**
 
