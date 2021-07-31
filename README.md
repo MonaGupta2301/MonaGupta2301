@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Mona Gupta</h1>
+<h2 align="left">Hi 👋, I'm Mona Gupta</h1>
 <h4 align="left">I want to work as a Full Stack (MERN) Developer</h3>
 
 📫 Email: **guptamona252@gmail.com**
