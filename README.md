@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mona Gupta</h1>
-<h3 align="center">I want to work as a Full Stack (MERN) Developer</h3>
+<h5 align="right">Hi 👋, I'm Mona Gupta</h1>
+<h6 align="right">I want to work as a Full Stack (MERN) Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monagupta2301&label=Profile%20views&color=0e75b6&style=flat" alt="monagupta2301" /> </p>
 
-- 📫 How to reach me **guptamona252@gmail.com**
+📫 Email: **guptamona252@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
