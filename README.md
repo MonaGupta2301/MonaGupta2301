@@ -4,7 +4,7 @@
 <!--  <img src="https://komarev.com/ghpvc/?username=monagupta2301&label=Profile%20views&color=0e75b6&style=flat" alt="monagupta2301" />-->
 - 🌱 I’m currently learning **Machine Learning Using Python**
 
-- 👨‍💻 All of my projects are available at [https://monagupta2301.github.io/Updated-Portfolio/](https://monagupta2301.github.io/Updated-Portfolio/)
+- �� All of my projects are available at [https://monagupta2301.github.io/Updated-Portfolio/](https://monagupta2301.github.io/Updated-Portfolio/)
 
 - 📫 How to reach me **guptamona252@gmail.com**
 
