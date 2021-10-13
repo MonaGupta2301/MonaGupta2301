@@ -2,11 +2,11 @@
 <h1 align="left">Hi 👋, I'm Mona Gupta</h1>
 <p align="left">I Want to work as a Full Stack (MERN) Developer </p>
 <!--  <img src="https://komarev.com/ghpvc/?username=monagupta2301&label=Profile%20views&color=0e75b6&style=flat" alt="monagupta2301" />-->
-- 🌱 I’m currently learning **Machine Learning Using Python**
+- 🌱 I’m currently learning <b>Machine Learning Using Python<b/>
 
 - �� All of my projects are available at [https://monagupta2301.github.io/Updated-Portfolio/](https://monagupta2301.github.io/Updated-Portfolio/)
 
-- 📫 How to reach me **guptamona252@gmail.com**
+- 📫 How to reach me <b>guptamona252@gmail.com<b/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
